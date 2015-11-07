@@ -1,0 +1,14 @@
+{
+  "name": "final7",
+  "version": "1.0.0",
+  "description": "Homework 7",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Tane",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.0.36"
+  }
+}
